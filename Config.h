@@ -10,6 +10,7 @@
 
 #include <systemc.h>
 
-#define SYSTEM_C_RSA_SAMPLE	1
+#define SYSTEM_C_RSA_SAMPLE	0
+#define SYSTEM_C_FIR_FILTER	1
 
 #endif /* CONFIG_H_ */
